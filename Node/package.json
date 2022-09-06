@@ -1,0 +1,11 @@
+{
+  "name": "chat-application-server-side",
+  "version": "1.0.0",
+  "description": "Basic chat application based on room",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anandeeswaran",
+  "license": "ISC"
+}
